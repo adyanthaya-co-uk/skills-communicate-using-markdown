@@ -10,4 +10,9 @@ Initialized empty git repository in ~/wrkspc/skills-communicate-using-markdown
 ``` javascript
 var myVar="Hello, world";
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Take left
+- [ ] Finish Driving theory test
+- [ ] finish tother test
+
 
