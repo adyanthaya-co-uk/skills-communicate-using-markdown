@@ -50,7 +50,7 @@ Here's a recap of all the tasks you've accomplished in your repository:
   <<< Author notes: Footer >>>
   Add a link to get support, GitHub status page, code of conduct, license link.
 -->
-![Home Page of this Repository](https://adyanthaya-co-uk.github.io/skills-communicate-using-markdown/)
+[Home Page of this Repository](https://adyanthaya-co-uk.github.io/skills-communicate-using-markdown)
 ---
 
 Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/communicate-using-markdown) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
